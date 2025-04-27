@@ -23,7 +23,7 @@ const HomeTwoSponsor = () => {
         </div>
         <div className="row justify-content-center">
           <div className="col-12">
-            <div className="sponsor__slider-w">
+            <div className="sponsor__slider-w btn-close-white">
               <Swiper
                 slidesPerView={1}
                 spaceBetween={70}

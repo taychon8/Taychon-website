@@ -19,7 +19,7 @@ function Header() {
     loadBackgroudImages();
   }, []);
   return (
-    <div className="header blog-header section-padding pb-0">
+    <div className="geadient-bg header blog-header section-padding pb-0">
       <div className="container mt-80">
         <div className="row justify-content-center">
           <div className="col-lg-11">

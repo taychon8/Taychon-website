@@ -87,12 +87,12 @@ function Intro() {
               </div>
               <div className="col-md-6">
                 <div className="text">
-                  <h3 className="mb-30 color-black">
+                  <h3 className="mb-30">
                     Empowering Digital Innovation Through{" "}
                     <span className="fw-300">Software</span> &
                     <span className="fw-300">&nbsp; Design.</span>
                   </h3>
-                  <p className="color-black">
+                  <p className="">
                     Taychon pioneers cutting-edge software and creative design,
                     enabling digital organizations to harness individual talents
                     for collective success.
@@ -110,7 +110,7 @@ function Intro() {
                 <div className="col-md-6">
                   <div className="item bord-thin-top pt-30 d-flex align-items-end mt-20">
                     <div>
-                      <h3 className="fw-300 mb-10 color-black">100%</h3>
+                      <h3 className="fw-300 mb-10">100%</h3>
                       <h6 className="p-color sub-title text-bold">
                         Clients Satisfaction
                       </h6>
@@ -125,7 +125,7 @@ function Intro() {
                 <div className="col-md-6">
                   <div className="item bord-thin-top pt-30 d-flex align-items-end mt-20">
                     <div>
-                      <h3 className="fw-300 mb-10 color-black ">100K +</h3>
+                      <h3 className="fw-300 mb-10">100K +</h3>
                       <h6 className="p-color sub-title text-bold">Projects Completed</h6>
                     </div>
                     <div className="ml-auto">

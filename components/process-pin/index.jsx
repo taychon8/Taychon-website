@@ -137,7 +137,7 @@ const PinSection = () => {
     <section className="processSection">
       <div className="sec-head sec-head-proccess mb-20 ">
         <h6 className="sub-title main-color mb-15 text-bold">Why choose us?</h6>
-        <h3 className="text-red-600 text-black">
+        <h3 className="text-red-600 ">
           Our Process <br /> From Vision to Execution
         </h3>
       </div>
@@ -145,8 +145,8 @@ const PinSection = () => {
         <div className="left">
           <div className="desktopContent">
             <div className="desktopContentSection desktopContentSection1">
-              <h1 className="text-black">Discovery & Research</h1>
-              <p className="text-black">
+              <h1 className="">Discovery & Research</h1>
+              <p className="">
                 We begin by thoroughly understanding your business goals, user
                 needs, and technical requirements. Our team conducts detailed
                 discussions, competitor research, and feasibility analysis to
@@ -160,8 +160,8 @@ const PinSection = () => {
               </p>
             </div>
             <div className="desktopContentSection desktopContentSection2">
-              <h1 className="text-black">UI/UX Design</h1>
-              <p className="text-black">
+              <h1 className="">UI/UX Design</h1>
+              <p className="">
                 Our expert designers craft visually stunning, intuitive, and
                 user-friendly interfaces that enhance engagement. We create
                 wireframes, mockups, and interactive prototypes to visualize
@@ -176,8 +176,8 @@ const PinSection = () => {
               </p>
             </div>
             <div className="desktopContentSection desktopContentSection3">
-              <h1 className="text-black">Development Phase</h1>
-              <p className="text-black">
+              <h1 className="">Development Phase</h1>
+              <p className="">
                 Once designs are finalized, our developers bring the vision to
                 life using cutting-edge technologies. We follow agile
                 methodologies, ensuring continuous integration, iterative
@@ -191,8 +191,8 @@ const PinSection = () => {
               </p>
             </div>
             <div className="desktopContentSection desktopContentSection4">
-              <h1 className="text-black">Testing & QA</h1>
-              <p className="text-black">
+              <h1 className="">Testing & QA</h1>
+              <p className="">
                 Before launch, we conduct thorough testing to identify and
                 resolve potential bugs, performance issues, and security
                 vulnerabilities. Our QA team performs functional, unit,
@@ -207,8 +207,8 @@ const PinSection = () => {
               </p>
             </div>
             <div className="desktopContentSection desktopContentSection5">
-              <h1 className="text-black">Deployment & Maintenance</h1>
-              <p className="text-black">
+              <h1 className="">Deployment & Maintenance</h1>
+              <p className="">
                 After final approval, we deploy the software to a live
                 production environment, ensuring smooth integration with
                 existing systems. We monitor performance, resolve post-launch

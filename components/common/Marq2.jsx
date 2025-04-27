@@ -8,7 +8,7 @@ function Marq2() {
   const AllContact = Array(6).fill(contact).flat();
 
   return (
-    <section className="call-marq section-padding o-hidden">
+    <section className="geadient-bg call-marq section-padding o-hidden">
       <div className="main-marq lrg sub-bg pt-20 pb-20">
         <div className="slide-har st1">
           <div className="box">

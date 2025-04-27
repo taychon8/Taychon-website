@@ -39,7 +39,7 @@ function Portfolio() {
     initIsotope();
   }, []);
   return (
-    <section className="work-grid section-padding pb-0">
+    <section className="geadient-bg work-grid section-padding pb-0">
       <div className="container-fluid">
         <div className="row mb-80 trigger-portfolio-head">
           <div className="col-lg-4 portfolio-head">

@@ -2,7 +2,7 @@ import React from "react";
 
 function Challenge({title, description}) {
   return (
-    <section className="section-padding">
+    <section className="section-padding geadient-bg">
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-lg-11">

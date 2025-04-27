@@ -3885,7 +3885,7 @@ body.loaded {
 
 .intro-accord {
   position: relative;
-  margin-top: 50px;
+  padding-top: 50px;
 }
 
 .intro-accord .circle-blur {
@@ -5387,7 +5387,7 @@ footer.clean-footer.crev .circle-blur {
 .numbers-crev .item h3 {
   font-size: 100px;
   font-weight: 800;
-  line-height: 1;
+  /* line-height: 1; */
   -webkit-transform: translateY(20px);
   -ms-transform: translateY(20px);
   transform: translateY(20px);
@@ -8716,7 +8716,7 @@ figure:hover img {
   display: flex;
   align-items: center;
   gap: 30px;
-  color: black;
+  /* color: black; */
   white-space: nowrap;
   font-size: 130px;
   font-weight: 700;
@@ -8754,7 +8754,7 @@ figure:hover img {
 .portfolio .str {
   font-family: sans-serif;
   -webkit-text-fill-color: transparent;
-  -webkit-text-stroke: 2px black
+  -webkit-text-stroke: 2px #fff
 }
 
 .portfolio .str i {
@@ -8764,4 +8764,8 @@ figure:hover img {
 
 .portfolio .str a:hover {
   -webkit-text-stroke-color: #2ed06e
+}
+
+.geadient-bg{
+  background: linear-gradient(91deg,rgba(4, 0, 9, 1) 29%, rgba(76, 0, 93, 1) 79%);
 }

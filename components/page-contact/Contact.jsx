@@ -2,7 +2,7 @@ import React from 'react';
 
 function Contact() {
   return (
-    <section className="contact section-padding">
+    <section className="geadient-bg contact section-padding">
       <div className="container">
         <div className="row">
           <div className="col-lg-4 valign">

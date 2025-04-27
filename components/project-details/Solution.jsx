@@ -2,7 +2,7 @@ import React from "react";
 
 function Solution({title,description}) {
   return (
-    <section className="section-padding">
+    <section className="geadient-bg section-padding">
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-lg-11">

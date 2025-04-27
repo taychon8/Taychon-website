@@ -2,14 +2,14 @@ import React from 'react';
 
 function Blog() {
   return (
-    <section className="blog style2 mt-100 mb-100">
+    <section className="geadient-bg blog style2 pt-100 pb-100">
       <div className="container">
         <div className="sec-head mb-80">
           <div className="d-flex align-items-center">
             <div>
               <span className="sub-title subtitle main-color mb-5 text-bold">Our Blogs</span>
               <h3 className="fw-600 fz-50 text-u d-rotate wow">
-                <span className="rotate-text color-black">
+                <span className="rotate-text">
                   Latest <span className="fw-200">News.</span>
                 </span>
               </h3>

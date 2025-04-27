@@ -46,7 +46,7 @@ export default function Home() {
       <Navbar />
       <div id="smooth-wrapper">
         <div id="smooth-content">
-          <main className="main-bg o-hidden">
+          <main className="geadient-bg o-hidden">
             <Header />
             <HomeTwoSponsor />
             <Intro />

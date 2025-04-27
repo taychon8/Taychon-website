@@ -2,7 +2,7 @@ import React from 'react';
 
 function Blog() {
   return (
-    <section className="blog section-padding">
+    <section className="geadient-bg blog section-padding">
       <div className="container">
         <div className="row xlg-marg">
           <div className="col-lg-8">

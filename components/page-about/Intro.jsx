@@ -2,7 +2,7 @@ import React from "react";
 
 function Intro() {
   return (
-    <section className="page-intro section-padding pb-0">
+    <section className="page-intro section-padding pb-0 geadient-bg">
       <div className="container">
         <div className="row md-marg">
           <div className="col-lg-6">
